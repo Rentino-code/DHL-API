@@ -27,10 +27,10 @@ return array(
     // DHL related settings    
     'dhl' => array(
         // ID to use to connect to DHL
-        'id' => 'YOUR_ID',
+        'id' => 'rentino744@gmail.com',
 
         // Password to use to connect to DHL
-        'pass' => 'YOUR_PASS',
+        'pass' => 'KauAc/V/@Wj/5p3',
 
         // Shipper, Billing and Duty Account numbers
         'shipperAccountNumber' => 'YOUR_NUMBER',
