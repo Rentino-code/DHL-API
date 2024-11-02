@@ -250,7 +250,7 @@ abstract class Base
      * 
      * @param string $key Key to check
      * 
-     * @return bolean True if it exsits, false otherwise 
+     * @return boolean True if it exsits, false otherwise
      */
     final public function __isset($key) 
     {
